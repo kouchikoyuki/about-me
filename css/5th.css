@@ -7,13 +7,14 @@
 *{
     color: #75776a;
     font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+    text-align: center
 }
 
 .h3,h1,a{
     color: #ba965c;
 }
 
-li{
+.li{
     color: #75776a;
 }
 
